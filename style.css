@@ -33,8 +33,27 @@ html{
   border: 1px solid black;
 }
 
+
 h2{
   color: black;
+}
+
+h3{
+  color: black;
+}
+h4{
+  color: black;
+  text-align: left;
+}
+
+#horse{
+  color: green;
+  font-size: 20px;
+}
+
+#cars{
+  color: red;
+  font-size: 20px;
 }
 
 #start{
