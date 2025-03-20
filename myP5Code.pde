@@ -12,6 +12,13 @@ draw = function () {
     fill(255, 255, 255, 255);
    rect(0, 550, 500, 50);
   
+if(mouseY < 50 ){
+  fill(150, 200, 68);
+  rect(0, 0, 500, 50);
+  text("🥇", 250, 50)
+  textSize(100);
+} 
+
 
 var x = 0;
 while(x < 500){
